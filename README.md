@@ -15,7 +15,7 @@
 
 I'm currently working on ESP, STM microcontrollers, and image processing, and machine learning. 
 
-You can contact me via email : [📧](mailto:ilbeyli.rahman@gmail.com)
+You can contact me via email.
 
 <!--
 **ilbeylia/ilbeylia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
