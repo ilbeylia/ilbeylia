@@ -10,6 +10,7 @@
 
 ➡ I have a keen interest in science, technology, games, and enjoy traveling and camping.
 
+
 ➡ I work on projects using programming languages such as C, C++, and Python. If you have any specific translation requests or further information you'd like to share, feel free to let me know.
 
 ---
