@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ➡ I'm Abdurrahman! I am an electrical electronics engineer specializing in embedded systems, with experience and knowledge in image processing, circuit, and PCB design.
+<br>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
