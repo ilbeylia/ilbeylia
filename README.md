@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="460" align="left" alt="Abdurrahman's github stats" src="https://github-readme-stats.vercel.app/api?username=ilbeylia&theme=dark&show_icons=true" />
+    <img width="480" align="left" alt="Abdurrahman's github stats" src="https://github-readme-stats.vercel.app/api?username=ilbeylia&theme=dark&show_icons=true" />
   </a>
 </p>
 
