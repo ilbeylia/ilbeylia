@@ -18,7 +18,7 @@
 
 ---
 
-I'm currently working on ESP, STM microcontrollers, and image processing, and machine learning. 
+I'm currently working on ESP, STM microcontrollers, and image processing and machine learning. 
 
 You can contact me via email.
 
