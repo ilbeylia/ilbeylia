@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-➡ I'm Abdurrahman! I am an electrical electronics engineer specializing in embedded systems, with experience and knowledge in image processing, circuit, and PCB design.<br>
+➡ I'm Abdurrahman! I am an electrical electronics engineer specializing in embedded systems, with experience and knowledge in image processing, circuit, and PCB design. Additionally, I develop Windows applications.<br>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,7 +10,7 @@
 
 ➡ I have a keen interest in science, technology, games, and enjoy traveling and camping.<br>
 
-➡ I work on projects using programming languages such as C, C++, and Python. If you have any specific translation requests or further information you'd like to share, feel free to let me know.<br>
+➡ I work on projects using programming languages such as C#, C, C++, and Python. If you have any specific translation requests or further information you'd like to share, feel free to let me know.<br>
 
 ---
 
