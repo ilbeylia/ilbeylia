@@ -3,8 +3,9 @@
 ➡ I'm Abdurrahman! I am an electrical electronics engineer specializing in embedded systems, with experience and knowledge in image processing, circuit, and PCB design. Additionally, I develop Windows applications.<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilbeylia&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilbeylia&layout=compact&theme=dark" />
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=ilbeylia&theme=dark" alt="GitHub Streak" />
+</a>
 </p>
 
 ➡ I have a keen interest in science, technology, games, and enjoy traveling and camping.<br>
