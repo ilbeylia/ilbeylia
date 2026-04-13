@@ -2,10 +2,9 @@
 
 ➡ I'm Abdurrahman! I am an electrical electronics engineer specializing in embedded systems, with experience and knowledge in image processing, circuit, and PCB design. Additionally, I develop Windows applications.<br>
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="440" align="left" alt="Abdurrahman's github stats" src="https://github-readme-stats.vercel.app/api?username=ilbeylia&theme=dark&show_icons=true" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilbeylia&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilbeylia&layout=compact&theme=dark" />
 </p>
 
 ➡ I have a keen interest in science, technology, games, and enjoy traveling and camping.<br>
