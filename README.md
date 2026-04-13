@@ -2,12 +2,6 @@
 
 ➡ I'm Abdurrahman! I am an electrical electronics engineer specializing in embedded systems, with experience and knowledge in image processing, circuit, and PCB design. Additionally, I develop Windows applications.<br>
 
-<p align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=ilbeylia&theme=dark" alt="GitHub Streak" />
-</a>
-</p>
-
 ➡ I have a keen interest in science, technology, games, and enjoy traveling and camping.<br>
 
 ➡ I work on projects using programming languages such as C#, C, C++, and Python. If you have any specific translation requests or further information you'd like to share, feel free to let me know.<br>
